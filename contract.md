@@ -1,13 +1,14 @@
 Demo Grading Contract
 ================
+March 03 2022
 
 <!-- This contract is adapted from Annie Somerville's contract https://github.com/anniehsom -->
 
 # Contract Grades – “A” Contract
 
-I, John Tukey, agree to :
+I, Tukey Garrison, agree to :
 
-1.  Earn “Satisfactory” on 12 self-paced lab assignments on the schedule
+1.  Earn “Satisfactory” on 10 self-paced lab assignments on the schedule
     specified below.
     -   Satisfactory defined:
     -   I have attempted all steps of the assignment. If unable to
@@ -18,18 +19,16 @@ I, John Tukey, agree to :
         my Github account and are accessible;
     -   I feel like I have spent an adequate amount of time and energy
         on assignments;
-        <!-- (tentatively defining “adequate” based on Lab 1 and previous experience with R: I will spend at least 30 minutes on labs and at least 1 hour on portfolio pieces); -->
-    -   My unessays are organized, thoughtful, and free of grammar
-        mistakes or typos;
-    -   My presentation is professional and engaging.
+    -   My presentation is professional, engaging, and accessible.
 2.  Produce at least 10 “Satisfactory” portfolio pieces on the schedule
     specified below.
-3.  Complete two “Satisfactory” Unessays on the schedule specified
-    below.
-4.  Complete a “Satisfactory” presentation based on the strongest of the
-    two unessays. 10 minutes total in length.
+3.  Complete a “Satisfactory” presentation based on some portfolio
+    pieces. 10 minutes total in length.
 
 ## SCHEDULE
+
+Note: This is an example schedule. You are welcomed and encouraged to
+rearrange these labs and events. The idea is to provide you one example.
 
 -   [ ] Module 01, 01/10 - 01/14 : What is Data Science and Meet the
     Toolkit
@@ -51,7 +50,6 @@ I, John Tukey, agree to :
     -   Finish portfolio piece 3 by 02/25
 -   [ ] Module 08, 02/28 - 03/04 : Functions
     -   Finish Lab 8 by 03/04
-    -   Finish Unessay 1 due on 03/04
 -   [ ] Module 09, 03/07 - 03/11 : Data and Ethics
     -   Finish Lab 9 by 03/11
     -   Finish portfolio piece 4 by 03/11
@@ -69,6 +67,5 @@ I, John Tukey, agree to :
     -   Finish portfolio piece 9 by 04/15
 -   [ ] Module 15, 04/18 - 04/22 : Special Topics
     -   Finish portfolio piece 10 by 04/22
-    -   Finish Unessay 2 due on 04/22
 -   [ ] Portfolio completion and end-of-semester presentation
     -   Due on 04/22
