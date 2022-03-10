@@ -149,6 +149,7 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
   - Finish portfolio piece 3 by `r advdate(dayone, 7, assignment="f")`
 - [ ] `r advdate(dayone, 8, topic)`
   - Finish Lab 8 by `r advdate(dayone, 8, assignment="f")`
+  - Schedule a check-in with Mason by `r advdate(dayone, 8, assignment="f")`
 - [ ] `r advdate(dayone, 9, topic)`
   - Finish Lab 9 by `r advdate(dayone, 9, assignment="f")`
   - Finish portfolio piece 4 by `r advdate(dayone, 9, assignment="f")`
