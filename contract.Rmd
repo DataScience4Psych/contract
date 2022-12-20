@@ -3,11 +3,11 @@ title: Demo Grading Contract
 date: "`r format(Sys.time(), '%B %d %Y')`"
 output: github_document
 params:
-  weekonemonday: "2022-01-10"
+  weekonemonday: "2023-01-09"
   thesisdeadline: "2022-01-10"
-  springbreak: "2022-01-10"
+  springbreak: "2023-01-10"
   name: John Tukey
-  labs: 10
+  labs: 11
   portfolios: 10
   grade:
     label: Grade
@@ -16,7 +16,6 @@ params:
     choices:
     - A
     - B
-    - C
     - Pass
   startweek:
     label: Weekly Due Date
@@ -168,6 +167,7 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
   - Finish Lab 1 by `r advdate(dayone, 1, assignment="f")`
 - [ ] `r advdate(dayone, 2, topic)`
   - Finish Lab 2 by `r advdate(dayone, 2, assignment="f")`
+  - Propose your contract to Mason by `r advdate(dayone, 2, assignment="f")`
 - [ ]  `r advdate(dayone, 3, topic)`
   - Finish Lab 3  by `r advdate(dayone, 3, assignment="f")`
   - Finish portfolio piece 1 by `r advdate(dayone, 3, assignment="f")`
@@ -196,6 +196,7 @@ Note: This is an example schedule. You are welcomed and encouraged to rearrange 
   `r if(params$labs>=12) paste0(" - Finish Lab 12 by ",advdate(dayone, 12, assignment="f"))`
   - Finish portfolio piece 6 by `r advdate(dayone, 12, assignment="f")`
 - [ ] `r advdate(dayone, 13, topic)`
+  `r if(params$labs>=13) paste0(" - Finish Lab 13 by ",advdate(dayone, 13, assignment="f"))`
   - Finish portfolio pieces 7 and 8 by `r advdate(dayone, 13, assignment="f")`
 - [ ] `r advdate(dayone, 14, topic)`
   - Finish portfolio piece 9 by `r advdate(dayone, 14, assignment="f")`
