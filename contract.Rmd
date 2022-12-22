@@ -104,18 +104,18 @@ advdate <- function(weekonemonday,
   return(tmp)
 }
 
-if(TRUE){
-  
-  dayone <- as.Date("2022-01-10")
-  startweek <- "Friday"
-} else {
+#if(TRUE){
+#  
+#  dayone <- as.Date("2022-01-10")
+#  startweek <- "Friday"
+#} else {
 
 dayone <- as.Date(params$weekonemonday)
 startweek <- params$startweek
 
 
   
-}
+#}
 
 
 
