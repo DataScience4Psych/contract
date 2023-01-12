@@ -27,8 +27,6 @@ params:
     - Wednesday
     - Thursday
     - Friday
-    - Saturday
-    - Sunday
 ---
 
 ```{r setup, include=FALSE}
